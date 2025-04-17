@@ -86,7 +86,7 @@ class _LoginPageState extends State<LoginPage> {
                 const SizedBox(height: 8),
                 Center(
                   child: Text(
-                    'Bengali Literature Platform',
+                    'Your Bengali Literature Platform',
                     style: Theme.of(
                       context,
                     ).textTheme.titleMedium?.copyWith(color: Colors.grey[600]),
